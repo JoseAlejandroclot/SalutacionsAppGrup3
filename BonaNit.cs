@@ -6,7 +6,7 @@ namespace SalutacionsApp
     {
         public void Saludar()
         {
-            Console.WriteLine("Bona nit!");
+            Console.WriteLine("Bona nit! Dorm bé i somia fort!");
         }
     }
 }

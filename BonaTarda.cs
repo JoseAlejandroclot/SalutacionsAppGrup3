@@ -6,7 +6,7 @@ namespace SalutacionsApp
     {
         public void Saludar()
         {
-            Console.WriteLine("Bona tarda!");
+            Console.WriteLine("Bona tarda! No se que posar aquí!");
         }
     }
 }
